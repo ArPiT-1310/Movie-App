@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../python"
+		},
+		{
+			"path": "../../../java"
+		},
+		{
+			"path": "../../../c/c"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		},
+		"cSpell.words": [
+			"acols",
+			"maketree"
+		]
+	}
+}
